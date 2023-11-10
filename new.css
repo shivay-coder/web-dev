@@ -1,0 +1,16 @@
+p{
+    color:red;
+    font-size: 72;
+}
+#p3{
+    color: blue;
+}
+.green-text{
+    color: green;
+}
+#h{
+    font-size: 50px;
+}
+.underline-h{
+    text-decoration: underline;
+}
